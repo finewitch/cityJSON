@@ -1,0 +1,42 @@
+html {
+      box-sizing: border-box;
+      font-family:'helvetica neue';
+      font-size: 20px;
+      font-weight: 200;
+    }
+    *, *:before, *:after {
+      box-sizing: inherit;
+    }
+    body{
+    	font-family: Lato;
+    	font-size:17px;
+    }
+    input {
+      width: 100%;
+      padding:20px;
+      text-align: center;
+
+    }
+    .search-form {
+      max-width:400px;
+      margin:50px auto;
+    }
+    ul, li{
+    	list-style-type: none;
+
+    }
+    .suggestions{
+    	margin:10px auto;
+    	padding:30px;
+    	max-width:400px;
+    	background-color: #CCE5EA;
+    	border: 1px solid lightblue;
+    	border-radius: 15px;
+    }
+    .highlighted{
+    	background-color: #96C9D4;
+    }
+    span.name{
+    	font-size:1.2em;
+    	color: #F0F7F9;
+    }
