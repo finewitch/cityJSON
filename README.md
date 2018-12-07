@@ -1,4 +1,4 @@
-# cityJSON
+# countryJSON
 simple exercise with JSON files
 Type a letter , see which country matches
 <p>
